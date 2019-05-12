@@ -1,10 +1,10 @@
 ---
-title: Web Engine Examples
+title: WebGL Engine Examples
 permalink: "/webengine-examples/"
 nav_order: 3
 ---
 
-# Web Engine Examples
+# WebGL Engine Examples
 
 Here’s a curated collection of examples of how to use the [WWT WebGL Engine]
 in your own web projects.
@@ -14,6 +14,12 @@ in your own web projects.
 **Note:** *Due to limitations in our web infrastructure, these examples will
   only work if you access them through unencrypted HTTP, not secure HTTPS.
   Please ensure that you are not visiting this site over an HTTPS channel.*
+
+The above limitation is also why these examples are stored independently from
+the main [WebGL Engine Reference] manual. We hope to integrate the reference
+manual and our library of examples more tightly in the future.
+
+[WebGL Engine Reference]: https://worldwidetelescope.gitbook.io/webgl-engine-reference/
 
 <!-- Note: no newline before the `endfor` -- needed to get the list to HTMLify properly -->
 {% for ex in site.data.webengine_examples %}
