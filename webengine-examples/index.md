@@ -21,9 +21,9 @@ in your own web projects.
 
 Your contributions are more than welcome! If you’d like to add an example,
 please submit a pull request against the
-[worldwidetelescope.github.io repository] with your addition.
+[wwt-web-examples repository] with your addition.
 
-[worldwidetelescope.github.io repository]: https://github.com/WorldWideTelescope/worldwidetelescope.github.io/
+[wwt-web-examples repository]: https://github.com/WorldWideTelescope/wwt-web-examples/
 
 {% for ex in site.data.webengine_examples %}
 
@@ -34,7 +34,7 @@ please submit a pull request against the
 {{ ex.summary }}
 
 - [View it live in the browser!](./{{ex.id}}/)
-- [View the source code on GitHub](https://github.com/WorldWideTelescope/worldwidetelescope.github.io/tree/master/webengine-examples/{{ex.id}}/)
+- [View the source code on GitHub](https://github.com/WorldWideTelescope/wwt-web-examples/tree/master/webengine-examples/{{ex.id}}/)
 
 By: [{{ ex.author_name }}](https://github.com/{{ ex.author_github }}).
 
