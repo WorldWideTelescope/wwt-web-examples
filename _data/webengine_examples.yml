@@ -1,0 +1,65 @@
+- id: simple
+  title: Simple Viewer
+  summary: A minimal example showing how to embed the WWT engine in a webpage.
+  author_name: Phil Rosenfield
+  author_github: philrosenfield
+- id: polygon-annotations
+  title: Poly Annotations Demo
+  summary: Shows how to create some basic geometric annotations.
+  author_name: Phil Rosenfield
+  author_github: philrosenfield
+- id: arrived-event
+  title: “Arrived” Event Demo
+  summary: Shows how to make something happen when the view arrives at a destination.
+  author_name: Phil Rosenfield
+  author_github: philrosenfield
+- id: click-event
+  title: “Click” Event Demo
+  summary: Shows how to make something happen when the user clicks on the screen.
+  author_name: Phil Rosenfield
+  author_github: philrosenfield
+- id: fov-control
+  title: FOV Control
+  summary: Shows how to control the field-of-view (FOV) size.
+  author_name: Phil Rosenfield
+  author_github: philrosenfield
+- id: local-view
+  title: Local View Perspective
+  summary: Shows how to match the sky view to that from a given location on Earth.
+  author_name: Phil Rosenfield
+  author_github: philrosenfield
+- id: load-images
+  title: Load Additional Imagery
+  summary: Shows how to load and show additional imagery in the viewer.
+  author_name: Phil Rosenfield
+  author_github: philrosenfield
+- id: load-tours
+  title: Load Tours
+  summary: Shows how to load, show, and control tours in the viewer.
+  author_name: Phil Rosenfield
+  author_github: philrosenfield
+- id: show-cities
+  title: City Explorer
+  summary: An example in which you can command the view to show various cities.
+  author_name: Phil Rosenfield
+  author_github: philrosenfield
+- id: tour-mars
+  title: Tour Mars
+  summary: An example in which you can command the view to tour various features on Mars.
+  author_name: Phil Rosenfield
+  author_github: philrosenfield
+- id: surface-explorer-1
+  title: Planetary Surface Explorer 1
+  summary: Explore landmarks on the surfaces of several celestial bodies.
+  author_name: Phil Rosenfield
+  author_github: philrosenfield
+- id: surface-explorer-2
+  title: Planetary Surface Explorer 1
+  summary: Explore landmarks on the surfaces of additional celestial bodies.
+  author_name: Phil Rosenfield
+  author_github: philrosenfield
+- id: messier-tour
+  title: Messier Object Tour
+  summary: Tour the objects in the famous Messier Catalog.
+  author_name: Phil Rosenfield
+  author_github: philrosenfield

@@ -1,0 +1,14 @@
+title: WWT Web Examples
+url: "http://webhosted.wwt-forum.org"
+email: wwt@aas.org
+description: >-
+  Examples of how to use WWT’s web toolkit in your own projects.
+twitter_username: wwtelescope
+github_username: WorldWideTelescope
+remote_theme: pmarsceill/just-the-docs
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
