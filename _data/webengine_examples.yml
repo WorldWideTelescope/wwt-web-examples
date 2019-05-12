@@ -20,7 +20,7 @@
   author_github: philrosenfield
 - id: fov-control
   title: FOV Control
-  summary: Shows how to control the field-of-view (FOV) size.
+  summary: "Shows how to control the field-of-view (FOV) size. NOTE: known bug, see <https://github.com/WorldWideTelescope/wwt-web-examples/issues/1>."
   author_name: Phil Rosenfield
   author_github: philrosenfield
 - id: local-view
@@ -30,7 +30,7 @@
   author_github: philrosenfield
 - id: load-images
   title: Load Additional Imagery
-  summary: Shows how to load and show additional imagery in the viewer.
+  summary: "Shows how to load and show additional imagery in the viewer. NOTE: temporarily broken, see <https://github.com/WorldWideTelescope/wwt-web-examples/issues/2>."
   author_name: Phil Rosenfield
   author_github: philrosenfield
 - id: load-tours
@@ -45,12 +45,12 @@
   author_github: philrosenfield
 - id: tour-mars
   title: Tour Mars
-  summary: An example in which you can command the view to tour various features on Mars.
+  summary: "An example in which you can command the view to tour various features on Mars. NOTE: known bug, <https://github.com/WorldWideTelescope/wwt-web-examples/issues/3>."
   author_name: Phil Rosenfield
   author_github: philrosenfield
 - id: surface-explorer-1
   title: Planetary Surface Explorer 1
-  summary: Explore landmarks on the surfaces of several celestial bodies.
+  summary: Explore landmarks on the surfaces of the Earth, the Moon, and Mars.
   author_name: Phil Rosenfield
   author_github: philrosenfield
 - id: surface-explorer-2
