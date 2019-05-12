@@ -24,9 +24,13 @@ HTTPS going to remove this limitation.
 
 Your contributions, especially additional examples, are more than welcome!
 Please see the [WWT Contributors’ Guide] and [WWT Code of Conduct] for general
-guidelines about project participation. The source code to this website is
-stored in the [wwt-web-examples] repository on GitHub.
+guidelines about project participation. Both of these documents, and more
+information, may be found at the [WWT Contributor Hub].
+
+The source code to this website is stored in the [wwt-web-examples] repository
+on GitHub.
 
 [WWT Contributors’ Guide]: https://worldwidetelescope.github.io/contributing/
 [WWT Code of Conduct]: https://worldwidetelescope.github.io/code-of-conduct/
+[WWT Contributor Hub]: https://worldwidetelescope.github.io/
 [wwt-web-examples]: https://github.com/WorldWideTelescope/wwt-web-examples/
