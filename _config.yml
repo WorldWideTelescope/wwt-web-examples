@@ -7,8 +7,11 @@ twitter_username: wwtelescope
 github_username: WorldWideTelescope
 remote_theme: pmarsceill/just-the-docs
 
+aux_links:
+  "View on GitHub!":
+    - "//github.com/WorldWideTelescope/wwt-web-examples/"
+
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-
