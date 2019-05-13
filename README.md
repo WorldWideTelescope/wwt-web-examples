@@ -13,13 +13,22 @@ because the WWT web services are not yet HTTPS-enabled. We are working on it!
 As you might guess, contributions to this website, and to the AAS WorldWide
 Telescope in general, are welcome! See
 [the contributors’ guide](https://worldwidetelescope.github.io/contributing/)
-for more information. We use a standard workflow with issues and pull
-requests.
+for more information. We use a standard [fork-and-pull] workflow and GitHub
+Issues.
+
+Our [GitHub Pages] sites, such as this one, use the [just-the-docs] [Jekyll]
+theme. The [just-the-docs documentation] describes its features.
+
+[fork-and-pull]: https://help.github.com/en/articles/about-collaborative-development-models
+[GitHub Pages]: https://pages.github.com/
+[just-the-docs]: https://github.com/pmarsceill/just-the-docs
+[Jekyll]: https://jekyllrb.com/
+[just-the-docs documentation]: https://pmarsceill.github.io/just-the-docs/
 
 ## Local testing
 
-This site is based on a standard [Jekyll](https://jekyllrb.com/) static site
-system. In short, first run
+This site is based on a standard [Jekyll] static site system. In short, first
+run
 
 ```
 bundle install
