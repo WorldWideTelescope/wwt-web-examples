@@ -11,6 +11,8 @@ aux_links:
   "View on GitHub!":
     - "//github.com/WorldWideTelescope/wwt-web-examples/"
 
+ga_tracking: UA-107473046-4
+
 exclude:
   - Gemfile
   - Gemfile.lock
